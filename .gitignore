@@ -15,3 +15,7 @@ update-hermes.sh
 
 # Monetization planning — private, never committed
 monetization/
+
+# Runtime logs
+*.log
+healthcheck.sh
